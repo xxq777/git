@@ -14,4 +14,7 @@ public class test {
 		int r=6;
 		int y=8;
 	}
+	public void ssss(){
+		
+	}
 }
