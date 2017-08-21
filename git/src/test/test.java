@@ -11,5 +11,6 @@ public class test {
 	public void ss(){
 		
 		int h=4;
+		int r=6;
 	}
 }
