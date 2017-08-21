@@ -12,5 +12,6 @@ public class test {
 		
 		int h=4;
 		int r=6;
+		int y=8;
 	}
 }
