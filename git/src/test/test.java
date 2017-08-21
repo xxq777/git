@@ -9,5 +9,7 @@ public class test {
 		 int y=8;
 		 int a=0;
 	}
-	
+	public void io(){
+		
+	}
 }
