@@ -10,6 +10,6 @@ public class test {
 		 int a=0;
 	}
 	public void io(){
-		
+		int r=5;
 	}
 }
