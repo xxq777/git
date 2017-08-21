@@ -6,7 +6,7 @@ public class test {
 	int b=4;
 	int c=3;
 	public static void main(String[] args) {
-		int d=3;
+		 
 	}
 	
 }
