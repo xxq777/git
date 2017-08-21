@@ -8,13 +8,5 @@ public class test {
 	public static void main(String[] args) {
 		int d=3;
 	}
-	public void ss(){
-		
-		int h=4;
-		int r=6;
-		int y=8;
-	}
-	public void ssss(){
-		
-	}
+	
 }
